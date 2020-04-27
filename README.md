@@ -1,4 +1,4 @@
-# Nome_da_Aplicação
+# Jogo Da Velha
 
 <!--- Exemplos de badges. Acesse https://shields.io para outras opções. Você pode querer incluir informações de dependencias, build, testes, licença, etc. --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/hsborges/progweb-template)
@@ -50,8 +50,8 @@ Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
 
 As seguintes pessoas contribuiram para este projeto:
 
-* [Meu nome](https://github.com/meu_nome)
-* *.... (liste todos os membros da equipe)*
+* Leonardo (https://github.com/Leonardo-Vilela-Dev)
+* *.... Leonardo De Almeida Vilela*
 
 ## Licença de uso
 
